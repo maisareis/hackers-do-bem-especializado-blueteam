@@ -6,7 +6,7 @@ Repositório com os estudos do curso **Especializado em Blue Team** – Foco em 
 
 ## 📚 Módulos
 
-### Módulo 1 – Fundamentos de Segurança Defensiva
+### Módulo 1 – Design de Rede Segura
 
 | Aula | Tema |
 |------|------|
@@ -23,29 +23,36 @@ Repositório com os estudos do curso **Especializado em Blue Team** – Foco em 
 | Aula | Tema |
 |------|------|
 | [Aula 1](./Modulo%202/01-seguranca-windows.md) | Segurança em Sistemas Windows – WSUS, senhas, menor privilégio, EDR/XDR |
-| [Aula 2](./Modulo%202/02-seguranca-linux.md) | Segurança em Sistemas GNU/Linux – OpenLDAP, Ansible, logs, serviços (Apache, SSH, Samba, BIND, MySQL, OpenVPN, KVM) |
-| [Aula 3](./Modulo%202/03-seguranca-ativos-rede.md) | Segurança de Ativos de Rede – Roteadores, switches, firewalls, VLANs, DMZ, Wi-Fi, filtragem MAC |
-| [Aula 4](./Modulo%202/04-seguranca-virtualizacao.md) | Segurança em Ambientes Virtualizados – Hypervisors Tipo 1 e 2, VM escape, snapshots, isolamento |
-| [Aula 5](./Modulo%202/05-protocolos-seguros.md) | Protocolos Seguros de Rede – HTTPS, SSH, SFTP, DNSSEC, SSL/TLS, mTLS, IPSec, IKE |
+| [Aula 2](./Modulo%202/02-seguranca-linux.md) | Segurança em Sistemas GNU/Linux – OpenLDAP, Ansible, logs, serviços |
+| [Aula 3](./Modulo%202/03-seguranca-ativos-rede.md) | Segurança de Ativos de Rede – Roteadores, switches, firewalls, VLANs, DMZ |
+| [Aula 4](./Modulo%202/04-seguranca-virtualizacao.md) | Segurança em Ambientes Virtualizados – Hypervisors Tipo 1 e 2, VM escape |
+| [Aula 5](./Modulo%202/05-protocolos-seguros.md) | Protocolos Seguros de Rede – HTTPS, SSH, SFTP, DNSSEC, SSL/TLS, IPSec |
 
 ---
 
-### Módulo 3 – Monitoramento e Defesa Ativa
+### Módulo 3 – Monitoramento
 
 | Aula | Tema |
 |------|------|
-| [Aula 1](./Modulo%203/01-gerenciamento-vulnerabilidades.md) | Gerenciando e Monitorando Vulnerabilidades – Nmap, hping, OSINT, fingerprinting, CVSS, CVE |
-| [Aula 2](./Modulo%203/02-seguranca-wifi.md) | Segurança em Redes Wi-Fi – Padrões 802.11, WEP/WPA/WPA2/WPA3, ameaças, criptografia |
-| [Aula 3](./Modulo%203/03-tecnicas-autenticacao.md) | Técnicas de Autenticação – Senhas, 2FA/MFA, biometria, tokens, RADIUS, TACACS+, EAP, IAM |
-| [Aula 4](./Modulo%203/04-monitoramento-analise-trafego.md) | Monitoramento e Análise de Tráfego – Sniffer, Wireshark, tcpdump, SPAN, TAP, IOC, phishing |
-| [Aula 5](./Modulo%203/05-gerenciamento-logs-centralizados.md) | Gerenciamento de Logs Centralizados – SIEM, syslog, compliance, LGPD, GDPR, PCI DSS |
+| [Aula 1](./Modulo%203/01-gerenciamento-vulnerabilidades.md) | Gerenciando e Monitorando Vulnerabilidades – Nmap, OSINT, CVSS, CVE |
+| [Aula 2](./Modulo%203/02-seguranca-wifi.md) | Segurança em Redes Wi-Fi – Padrões 802.11, WEP/WPA/WPA2/WPA3 |
+| [Aula 3](./Modulo%203/03-tecnicas-autenticacao.md) | Técnicas de Autenticação – Senhas, 2FA/MFA, biometria, RADIUS, TACACS+ |
+| [Aula 4](./Modulo%203/04-monitoramento-analise-trafego.md) | Monitoramento e Análise de Tráfego – Wireshark, tcpdump, SPAN, TAP, IOC |
+| [Aula 5](./Modulo%203/05-gerenciamento-logs-centralizados.md) | Gerenciamento de Logs Centralizados – SIEM, syslog, LGPD, GDPR |
 
 ---
 
 ## 📖 Glossário
 
-Termos técnicos organizados para consulta rápida:  
-👉 [Glossário](./Glossario/)
+Termos técnicos organizados por categoria para consulta rápida:  
+👉 [Glossário](./GLOSSARIO.md)
+
+---
+
+## 🛠️ Comandos Úteis
+
+Referência rápida de comandos para redes, Linux e Windows:  
+👉 [comandos-uteis.md](./comandos-uteis.md)
 
 ---
 
@@ -63,6 +70,12 @@ Termos técnicos organizados para consulta rápida:
 ## 👤 Autor
 
 Curso – Hackers do Bem / Especializado Blue Team
+
+---
+
+## ⚠️ Aviso Legal
+
+> As anotações e atividades documentadas aqui foram produzidas exclusivamente para fins educacionais no contexto da formação Hackers do Bem (RNP/ESR). O uso de qualquer técnica descrita em sistemas sem autorização prévia é ilegal.
 
 ---
 
